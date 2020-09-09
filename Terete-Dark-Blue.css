@@ -42,10 +42,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(205,224,228,0.5606617
 --background-primary: #0D1016;
 
 }
-/* channels bg */
-.content-3at_AU {
-    background: rgb(5,2,15); background: radial-gradient(circle, rgba(5,2,15,0.8267682072829132) 92%, rgba(17,12,70,0.8379726890756303) 100%);
-}
+
 
 /* feiends list background */
 .tabBody-3YRQ8W {
@@ -213,4 +210,4 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(205,224,228,0.5606617
 .body-1ld4H7 {
     border-radius:30px;
 }
-:root {--background-modifier-selected: #122F84!important;}
+:root {--background-modifier-selected: #000318!important;}
