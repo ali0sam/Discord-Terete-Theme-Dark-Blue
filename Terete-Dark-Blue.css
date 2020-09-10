@@ -211,3 +211,29 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(205,224,228,0.5606617
     border-radius:30px;
 }
 :root {--background-modifier-selected: #000318!important;}
+
+/* status panel */
+.header-3C6qT5 {
+    border-radius:90px;
+    background:#000012;
+    padding: 2px;
+  width: 760px;
+  height: 70px;
+  margin-bottom: 20px !important;
+    margin-top: 50px !important;
+}
+.headerText-2uyvpY {
+     margin-bottom: 20px !important;
+    margin-top: 20px !important;
+}
+.children-rWhLdy {
+    border-radius:4px;
+    background:#000C13;
+    color:none;
+}
+.formGroup-2hEDrJ {
+    background:none;
+}
+.close-hZ94c6 {
+    background:#000C13;
+}
