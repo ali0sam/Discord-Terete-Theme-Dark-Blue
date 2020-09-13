@@ -69,6 +69,19 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(205,224,228,0.5606617
 .bg-h5JY_x {
     background:black;
 }
+/* new b */
+[user_by_bdfdb="575933571186032641"] + .headerInfo-30uryT .da-profileBadgeHypeSquadOnlineHouse2 {
+    background:none;
+    
+    content: url('https://i.redd.it/e63co024yh741.png');
+}
+
+[user_by_bdfdb="556933717390786570"] + .headerInfo-30uryT .da-profileBadgeHypeSquadOnlineHouse1 {
+    background:none;
+    
+    content: url('https://discordia.me/uploads/hypesquad/hypesquad.png');
+}
+
 /* server panel */
 .container-2Rl01u {
     background:#0F0F15;
